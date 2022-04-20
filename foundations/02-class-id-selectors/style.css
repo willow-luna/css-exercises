@@ -1,4 +1,4 @@
-.class{
+.palelove{
     background-color: rgb(208, 147, 147);
 
     font-family: Verdana, 'DejaVu Sans' , sans-serif ;
@@ -6,6 +6,13 @@
 
 #waterwords{
     color: rgb(75, 161, 226);
-    
+
     font-size: 36px;
+}
+
+.palelove .two{
+    font-size: 24px;    
+
+    font-weight: bold;
+    
 }
