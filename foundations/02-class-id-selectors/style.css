@@ -1,0 +1,11 @@
+.class{
+    background-color: rgb(208, 147, 147);
+
+    font-family: Verdana, 'DejaVu Sans' , sans-serif ;
+}
+
+#waterwords{
+    color: rgb(75, 161, 226);
+    
+    font-size: 36px;
+}
