@@ -1,7 +1,7 @@
 body {
   background: #eee;
   font-family: sans-serif;
-  padding: 8px;
+  border: 8px solid #eee;
 }
 
 
@@ -9,27 +9,27 @@ body {
   width: 400px;
   height: auto;
   background: #fff;
+  margin: 16px auto;
   padding: 8px;
-  margin: 8px auto;
 }
 
 .title {
   background: #e3f4ff;
   font-size: 16px;
-  margin: 8px;
+  margin-top: 0;
+  margin-bottom: 8px;
   padding: 8px;
 
 }
 
 .content {
   background: #e3f4ff;
-  margin: 8px;
+  margin-bottom: 8px;
   padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 8px;
   padding: 8px;
   text-align: center;
 
@@ -38,8 +38,9 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  margin: 0 auto;
   display: block;
   padding: 8px 24px;
-
+  
   
 }
